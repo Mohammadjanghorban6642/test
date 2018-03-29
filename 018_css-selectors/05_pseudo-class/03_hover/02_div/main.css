@@ -1,0 +1,11 @@
+    div{
+        width: 200px;
+        height: 200px;
+        background-color: aquamarine;
+        display: inline-block;
+    }
+
+    div:hover{
+        background-color: #ff3344;
+        cursor: pointer;
+    }

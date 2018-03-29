@@ -1,0 +1,22 @@
+    body{
+        font-size: 36px;
+        text-align: center;
+        border: 10px solid #67ff3b;
+    }
+    /*LVHS*/
+    /*Link Visited Hover Active*/
+    a:link{
+        color: #ff3344;
+    }
+
+    a:visited{
+        color: #bc9aff;
+    }
+
+    a:hover{
+        color: aqua;
+    }
+
+    a:active{
+        color: chocolate;
+    }

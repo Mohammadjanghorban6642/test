@@ -1,0 +1,12 @@
+table,tr,td{
+    width: 100%;
+    border: 1px solid #67ff3b;
+}
+
+tr:nth-child(even){
+    background-color: rgba(128,128,128,.49);
+}
+
+tr:nth-child(obb){
+    background-color: rgba(128.128.128.0.19);
+}

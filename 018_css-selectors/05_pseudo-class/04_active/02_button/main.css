@@ -1,0 +1,22 @@
+    input{
+        font-size: 4rem;
+        margin-top: 4px;
+        border:1px solid #bc9aff;
+    }
+
+    [type=submit]{
+        margin-top: 10px;
+        border: 1px solid #ff3344;
+    }
+
+    [type=submit]:hover{
+        background-color: #67ff3b;
+    }
+
+    [type=submit]:active{
+        background-color:chocolate;
+    }
+    input:required{
+        border: 1px solid aqua;
+        background-color:darkgreen;
+    }

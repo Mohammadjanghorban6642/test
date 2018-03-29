@@ -1,0 +1,15 @@
+html,body,h1{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 30rem;
+    /*text-shadow: /5px 5px/ 20px red;*/
+    /*عدد اول سایه را چپ با علامت منفی و راست میرود*/
+    /*عدد دوم سایه را بالا پایین میرود*/
+    /*عدد سوم حالت مات کننده به سایه میدهد*/
+    text-shadow: 10px 200px 20px red;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+    div{
+        width: 400px;
+        height: 400px;
+        border: 1px solid red;
+                            /*بردر رادیوس اطرام قاب را نرم تر می کند*/
+        border-radius: 25%;
+        /*display: none;*/
+        display: inline-block;
+    }
+
+    img{
+        border: 10px groove red;
+        box-sizing: border-box;
+        width: 200px;
+        padding: 20px;
+    }
+    .woman1{
+        border: 10px groove red;
+    }
+    .woman2{
+        border: 10px groove red;
+    }

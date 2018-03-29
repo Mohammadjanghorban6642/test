@@ -1,0 +1,9 @@
+    body{
+        font-size: 36px;
+    }
+    li:first-child{
+        color: #ff3344;
+    }
+    ul:first-child{
+        background-color: mediumorchid;
+    }

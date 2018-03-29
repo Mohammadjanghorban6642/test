@@ -1,0 +1,29 @@
+    input{
+        font-size: smaller;
+        margin-top:12px;
+        border-radius: 100%;
+        display: inline;
+        color: aqua;
+        background-color: #bc9aff;
+    }
+    [type=submit]{
+        margin-top: 100px;
+        background-color: cadetblue;
+    }
+    [type=submit]:hover{
+        background-color: chocolate;
+        color: red;
+    }
+    [type=submit]:active{
+        background-color: #67ff3b;
+        color: darkblue;
+    }
+    .m1{
+        display: block;
+    }
+    .m2{
+        display: block;
+    }
+    .m3{
+        display: block;
+    }

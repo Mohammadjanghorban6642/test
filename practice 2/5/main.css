@@ -1,0 +1,10 @@
+    div{
+        background-image: url("../../001_img/photo_2017-02-20_18-26-28.jpg");    
+        width: 1000px;
+        height: 1000px;
+        background-color: #67ff3b;
+        border-radius: 100%;
+        border:10px solid blue;
+        background-size: cover;
+        background-repeat:no-repeat ;
+    }

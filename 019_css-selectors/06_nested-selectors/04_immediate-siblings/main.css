@@ -1,0 +1,9 @@
+    body{
+        font-size: 45px;
+        text-align: center;
+        padding-top: 32px;
+    }
+
+    div > p{
+        color: #67ff3b;
+    }

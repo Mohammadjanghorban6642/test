@@ -1,0 +1,7 @@
+    body{
+        font-size: 45px;
+    }
+
+    li:nth-child(obb){
+        color: red;
+    }

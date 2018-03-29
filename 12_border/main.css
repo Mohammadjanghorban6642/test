@@ -1,0 +1,21 @@
+    div{
+        width: 100px;
+        height: 100px;
+        border: 1px solid red;
+    }
+
+        img{
+            border: 10px groove blue;
+        }
+        .dog1{
+            border: 100px inset blue;
+        }
+        .dog2{
+            border: 100px dashed blue;
+        }
+        .dog3{
+            border: 100px dotted blue;
+        }
+        .do4{
+            border: 100px double red;
+        }

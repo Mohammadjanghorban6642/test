@@ -1,0 +1,53 @@
+    html{
+        font-size: 1vw;
+    }
+    html,body,form,label,input{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    html,body{
+        height: 100%;
+    }
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 4rem;
+    }
+
+    form{
+        display: flex;
+        flex-direction: column;
+        border: 1px solid blueviolet;
+    }
+    label{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    input{
+        font-size: 4rem;
+        margin-top:4px ;
+        border: 1px solid maroon;
+    }
+    input{
+        font-size: 4rem;
+        margin-top: 4px;
+        border: 1px solid #67ff3b;
+    }
+    [type=submit]{
+        margin-top: 10px;
+        border: 1px solid mediumblue;
+    }
+    [type=submit]:hover{
+        background-color: cornflowerblue;
+    }
+    [type=submit]:focus{
+        background-color: chocolate;
+    }
+    input:required{
+        border: 1px solid red;
+        background-color: rgba(255,182,193,0.13);
+    }

@@ -1,0 +1,10 @@
+p{
+    border: 5px solid green;
+    line-height: 3;
+    width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+span{
+    border: 1px solid black;
+}
